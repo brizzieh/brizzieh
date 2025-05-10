@@ -13,7 +13,7 @@
         I specialize in building <strong>scalable, modern, and high-performance applications</strong> across frontend and backend technologies. Passionate about emerging tech and innovation, I'm constantly learning and pushing the boundaries of what's possible.
       </p>
       <div align="left">
-        <img src="https://profile-counter.glitch.me/brizzieh/count.svg" alt="brizzieh" width="150" /> <br> Profile Views <br> Profile Views
+        <img src="https://profile-counter.glitch.me/brizzieh/count.svg" alt="brizzieh" width="150" /> Profile Views 
       </div>
     </td>
   </tr>
