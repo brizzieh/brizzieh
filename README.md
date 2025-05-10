@@ -31,8 +31,8 @@
 
 # 🌍 **Social & Projects**  
 
-[![Twitter](https://img.shields.io/twitter/follow/BrightonBrown?color=1DA1F2&logo=x&style=for-the-badge)](https://twitter.com/BrightonBrown)  
-[![GitHub](https://img.shields.io/badge/GitHub-brizzieh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brizzieh)  
+[![Twitter](https://img.shields.io/twitter/follow/BrightonBrown?color=1DA1F2&logo=x&style=for-the-badge)](https://twitter.com/BrightonBrown) 
+[![GitHub](https://img.shields.io/badge/GitHub-brizzieh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brizzieh)
 [![Instagram](https://img.shields.io/badge/Instagram-brizzieh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brizzieh)
 
 
@@ -46,16 +46,16 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-339933?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-339933?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
 ### 🗄️ Databases  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### 🛠 DevOps & Tools  
