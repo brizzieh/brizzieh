@@ -12,9 +12,9 @@
       <p align="left">
         I specialize in building <strong>scalable, modern, and high-performance applications</strong> across frontend and backend technologies. Passionate about emerging tech and innovation, I'm constantly learning and pushing the boundaries of what's possible.
       </p>
-      <!-- <div align="left">
-        <img src="https://profile-counter.glitch.me/brizziehx/count.svg" alt="brizziehx" width="150" /> <br> Profile Views <br> Profile Views
-      </div> -->
+      <div align="left">
+        <img src="https://profile-counter.glitch.me/brizzieh/count.svg" alt="brizzieh" width="150" /> <br> Profile Views <br> Profile Views
+      </div>
     </td>
   </tr>
 </table>
@@ -32,7 +32,7 @@
 # 🌍 **Social & Projects**  
 
 [![Twitter](https://img.shields.io/twitter/follow/BrightonBrown?color=1DA1F2&logo=x&style=for-the-badge)](https://twitter.com/BrightonBrown)  
-[![GitHub](https://img.shields.io/badge/GitHub-brizziehx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brizziehx)  
+[![GitHub](https://img.shields.io/badge/GitHub-brizzieh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brizzieh)  
 [![Instagram](https://img.shields.io/badge/Instagram-brizzieh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brizzieh)
 
 
@@ -68,9 +68,9 @@
 
 ## 📊 **GitHub Stats**  
 
-<img src="https://github-readme-stats.vercel.app/api?username=brizziehx&show_icons=true&theme=radical" height="150px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brizziehx&theme=radical" height="150px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brizziehx&layout=compact&theme=radical" height="150px" />
+<img src="https://github-readme-stats.vercel.app/api?username=brizzieh&show_icons=true&theme=radical" height="150px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brizzieh&theme=radical" height="150px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brizzieh&layout=compact&theme=radical" height="150px" />
 
 
 ---
