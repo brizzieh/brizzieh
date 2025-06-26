@@ -1,8 +1,4 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="https://user-badge.committers.top/tanzania/brizzieh.svg" alt="Committers Top Badge" />
-</p>
-
 # 👋 Yoo! I'm Brighton Brown
 
 ### 🚀 Expert Fullstack Developer | 💻 Tech Enthusiast
