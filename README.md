@@ -2,7 +2,6 @@
 # 👋 Yoo! I'm Brighton Brown
 
 ### 🚀 Expert Fullstack Developer | 💻 Tech Enthusiast  
-🏢 Founder at [Brizzieh-Technologies](https://github.com/Brizzieh-Technologies)
 
 <table>
   <tr>
