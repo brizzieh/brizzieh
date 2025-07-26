@@ -28,7 +28,6 @@
 - 🛠️ Building cutting-edge solutions with **Laravel, React, Next.js, Python, and more**
 - 💬 Ask me about **anything tech-related**
 - 🌱 Constantly improving my DevOps and AI skills
-- 🏢 Working at [@Brizzieh-Technologies](https://github.com/Brizzieh-Technologies)
 
 📩 **Let's Connect:**  
 📧 [brizziehh@gmail.com](mailto:brizziehh@gmail.com)  
