@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 # 👋 Yoo! I'm Brighton Brown
 
-### 🚀 Expert Fullstack Developer | 💻 Tech Enthusiast
+### 🚀 Expert Fullstack Developer | 💻 Tech Enthusiast  
+🏢 Founder at [Brizzieh-Technologies](https://github.com/Brizzieh-Technologies)
 
 <table>
   <tr>
@@ -27,6 +28,7 @@
 - 🛠️ Building cutting-edge solutions with **Laravel, React, Next.js, Python, and more**
 - 💬 Ask me about **anything tech-related**
 - 🌱 Constantly improving my DevOps and AI skills
+- 🏢 Working at [@Brizzieh-Technologies](https://github.com/Brizzieh-Technologies)
 
 📩 **Let's Connect:**  
 📧 [brizziehh@gmail.com](mailto:brizziehh@gmail.com)  
@@ -39,6 +41,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/BrightonBrown?color=1DA1F2&logo=x&style=for-the-badge)](https://twitter.com/BrightonBrown) 
 [![GitHub](https://img.shields.io/badge/GitHub-brizzieh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brizzieh)
 [![Instagram](https://img.shields.io/badge/Instagram-brizzieh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brizzieh)
+[![Organization](https://img.shields.io/badge/Organization-Brizzieh--Technologies-6f42c1?style=for-the-badge&logo=github)](https://github.com/Brizzieh-Technologies)
 
 ---
 
