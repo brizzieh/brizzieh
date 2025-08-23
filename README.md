@@ -71,11 +71,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://user-badge.committers.top/tanzania/brizzieh">
     <img src="https://user-badge.committers.top/tanzania/brizzieh.svg" alt="Committers Top Badge" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brizzieh&show_icons=true&theme=radical" height="150px" />
