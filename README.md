@@ -1,7 +1,3 @@
-Here is your **fully updated, polished, James-style README**, keeping your identity, tech stack, socials, and style — but matching the nice layout, formatting, and structure of James’s version.
-
----
-
 # 👋 Hi, My Name is **Brighton Brown**
 
 ### **Fullstack Developer**
