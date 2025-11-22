@@ -77,7 +77,7 @@ Passionate Fullstack Developer | Laravel, Django, React & Next.js Specialist
 </a>
 
 <a href="http://www.github.com/brizzieh">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brizzieh&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" height="150px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brizzieh&langs_count=20&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" height="150px" />
 </a>
 
 ---
