@@ -6,7 +6,7 @@
 
 *📍 Based in Dar es Salaam, Tanzania*
 *📧 [brizziehh@gmail.com](mailto:brizziehh@gmail.com)*
-*🌐 [brizzieh.me](https://brizzieh.com)* *(coming soon)*
+*🌐 [brizzieh.com](https://brizzieh.com)* *(coming soon)*
 
 ---
 
