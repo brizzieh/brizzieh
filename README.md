@@ -1,253 +1,123 @@
-# 🚀 Brighton Brown
-
-### `>_ Fullstack Developer & Tech Entrepreneur`
-
 <div align="center">
   
-  <!-- Interactive Toggle -->
-  <details open>
-    <summary><b>🔘 TAP TO EXPAND/CONTRACT MY STATUS</b></summary>
-    <br>
-    
-    ```js
-    console.log("Status: 🟢 ACTIVE & AVAILABLE");
-    console.log("Location: 📍 Dar es Salaam, Tanzania");
-    console.log("Mission: 🎯 Building Africa's Tech Future");
-    ```
-    
-  </details>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Brighton+Brown;Fullstack+Developer;Tech+Entrepreneur;Building+Africa's+Tech+Future" alt="Typing SVG" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Status-Active%20%26%20Available-00FF9D?style=flat-square&logo=statuspal&logoColor=white&color=00FF9D&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-3B82F6?style=flat-square&logo=codefactor&logoColor=white&color=3B82F6&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Projects-45%2B-FF6B6B?style=flat-square&logo=github&logoColor=white&color=FF6B6B&labelColor=0D1117"/>
+  
+  <br/>
+  <br/>
+  
+  *📍 Based in Dar es Salaam, Tanzania*
+  *📧 [brizziehh@gmail.com](mailto:brizziehh@gmail.com)*
+  *🌐 [brizzieh.com](https://brizzieh.com)* *— Coming Soon*
 
 </div>
 
 ---
 
-## 🎮 **INTERACTIVE SKILLS PANEL**
-
-<details>
-  <summary><b>⚡ CLICK TO VIEW MY TECH STACK</b></summary>
-  <br>
-  
-  | Frontend | Backend | Database | Cloud/DevOps |
-  |----------|---------|----------|--------------|
-  | ✅ React | ✅ Laravel | ✅ PostgreSQL | ✅ AWS |
-  | ✅ Next.js | ✅ Django | ✅ MySQL | ✅ Docker |
-  | ✅ TypeScript | ✅ Node.js | ✅ Supabase | 🟡 K8s (Learning) |
-  | ✅ Tailwind | ✅ Express | 🟡 MongoDB | 🟢 Vercel |
-  
-  <br>
-  
-  <!-- Skill progress bars you can hover -->
-  <div title="React - 90%" style="cursor: help;">React: ████████████████████ 90%</div>
-  <div title="Laravel - 88%" style="cursor: help;">Laravel: ██████████████████░░ 88%</div>
-  <div title="Python/Django - 85%" style="cursor: help;">Django: ████████████████░░░░ 85%</div>
-  <div title="Cloud/DevOps - 70%" style="cursor: help;">DevOps: ██████████████░░░░░░ 70%</div>
-  
-</details>
-
----
-
-## 📊 **LIVE GITHUB STATS** (Auto-updates daily)
+## 🔥 **Current Status**
 
 <div align="center">
   
-  | **Metric** | **Value** |
-  |------------|-----------|
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-WORKING%20ON-0D1117?style=for-the-badge"/>
+        <br/>
+        <strong>Brizzieh Technologies Projects</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-LEARNING-0D1117?style=for-the-badge"/>
+        <br/>
+        <strong>Advanced DevOps & Cloud Engineering</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-LOOKING%20TO-0D1117?style=for-the-badge"/>
+        <br/>
+        <strong>Collaborate on Fullstack Projects</strong>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<div align="center">
+  <a href="https://www.github.com/brizzieh" target="_blank">
+    <img src="https://img.shields.io/github/followers/brizzieh?logo=github&style=for-the-badge&color=3B82F6&labelColor=0D1117&logoColor=white" />
+  </a>
+  <a href="https://www.twitter.com/BrightonBrown" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/BrightonBrown?logo=twitter&style=for-the-badge&color=3B82F6&labelColor=0D1117&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/brizzieh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&labelColor=0D1117&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## ⚡ **Tech Arsenal**
+
+<div align="center">
+  
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+  | Metric | Value |
+  |--------|-------|
   | 🏆 Total Commits | `2.4k+` |
   | 📚 Repositories | `45+` |
-  | 🔥 Current Streak | `Click to refresh ↓` |
-  
-  <!-- Refreshable content -->
-  <details>
-    <summary>🔄 REFRESH STATS</summary>
-    <br>
-    
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brizzieh&show_icons=true&theme=dark&hide_border=true)
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brizzieh&layout=compact&theme=dark&hide_border=true)
-    
-  </details>
-  
+  | ⭐ Total Stars | `120+` |
+  | 🔀 PRs Merged | `85+` |
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brizzieh&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=3B82F6&title_color=3B82F6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brizzieh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brizzieh&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brizzieh&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true"/>
 </div>
 
 ---
 
-## 🎯 **INTERACTIVE PROJECT POLL**
-
-**Which project should I build next?** *(Click your choice)*
-
-<details>
-  <summary>📊 VIEW & VOTE</summary>
-  <br>
-  
-  - [ ] 🤖 AI-Powered Code Assistant  
-  - [ ] 📱 African E-Commerce Platform  
-  - [ ] 🎮 Developer Gamification App  
-  - [ ] ☁️ Cloud Cost Optimizer  
-  - [ ] 💬 Real-time Collab Tool
-  
-  *(Update this after each vote!)*
-  
-  **Current Leader:** 🏁 AI-Powered Code Assistant
-  
-</details>
-
----
-
-## 🕹️ **GAME: FIND MY SECRET SKILL**
-
-<details>
-  <summary>🎮 PLAY THE HIDDEN SKILL GAME</summary>
-  <br>
-  
-  *Hover over the blocks below to reveal hidden skills:*
-  
-  <div align="center">
-    
-    | [?] | [?] | [?] | [?] |
-    |-----|-----|-----|-----|
-    | **Hover→** | **Hover→** | **Hover→** | **Hover→** |
-    
-    *Revealed skills appear here when you hover:*
-    
-    ```python
-    # 🤫 Hover over a box above...
-    # 🤫 ...to reveal my secret skills!
-    ```
-    
-  </div>
-  
-</details>
-
----
-
-## 📅 **AVAILABILITY CALENDAR**
-
-<details>
-  <summary>📆 CHECK WHEN I'M FREE FOR COLLAB</summary>
-  <br>
-  
-  ```
-  Monday:    🟢 OPEN
-  Tuesday:   🟡 LIMITED (Client Work)
-  Wednesday: 🟢 OPEN  
-  Thursday:  🟢 OPEN
-  Friday:    🔴 BOOKED
-  Weekend:   🟢 OPEN (Best time to connect!)
-  ```
-  
-  **Best times to reach me:** 10AM - 4PM EAT (UTC+3)
-  
-  **[Schedule a call →](mailto:brizziehh@gmail.com?subject=Coding%20Collaboration&body=Hi%20Brighton%2C%20I'd%20like%20to%20discuss...)** *Click to email me*
-  
-</details>
-
----
-
-## 💬 **QUICK RESPONSE BUTTONS**
+## 🚀 **Featured Projects**
 
 <div align="center">
   
-  <a href="mailto:brizziehh@gmail.com?subject=GitHub%20Collaboration">
-    <img src="https://img.shields.io/badge/📧_HIRE_ME-Email_Now-0A66C2?style=for-the-badge"/>
-  </a>
-  
-  <a href="https://twitter.com/intent/tweet?text=Hi%20@BrightonBrown%2C%20I%20saw%20your%20GitHub%20profile...">
-    <img src="https://img.shields.io/badge/🐦_TWEET_ME-Twitter-1DA1F2?style=for-the-badge"/>
-  </a>
-  
-  <a href="https://linkedin.com/in/brizzieh">
-    <img src="https://img.shields.io/badge/💼_CONNECT-LinkedIn-0077B5?style=for-the-badge"/>
-  </a>
-  
+  | Project | Stack | Status |
+  |---------|-------|--------|
+  | **Brizzieh Technologies** | Laravel, React, PostgreSQL | 🟢 Active |
+  | **Upcoming Project** | Next.js, Django, AWS | 🟡 In Development |
+
 </div>
 
 ---
 
-## 🎲 **RANDOM DEV JOKE** *(Refresh to see a new one)*
-
-<details open>
-  <summary>😂 CLICK FOR A LAUGH</summary>
-  <br>
-  
-  > **Why do programmers prefer dark mode?**  
-  > *Because light attracts bugs.* 🐛
-  
-  <br>
-  
-  *[🔄 Get new joke]*
-
-</details>
-
----
-
-## 📝 **GUESTBOOK** *(Leave your mark!)*
-
-<details>
-  <summary>✍️ SIGN MY GUESTBOOK</summary>
-  <br>
-  
-  *Previous visitors:*
-  
-  | Visitor | Message | Date |
-  |---------|---------|------|
-  | @dev_africa | "Great stack! Let's collab" | Dec 2024 |
-  | @tech_tz | "Inspiring work bro" | Nov 2024 |
-  | @fullstack_enthu | "Love the Next.js projects" | Oct 2024 |
-  
-  **Want to sign?**  
-  👉 **[Add your name →](https://github.com/brizzieh/brizzieh/issues/new?title=Guestbook+Entry&body=Name:+%5BYour+Name%5D%0AMessage:+%5BYour+Message%5D)** *(Opens GitHub Issue)*
-  
-</details>
-
----
-
-## 🔔 **SUBSCRIBE TO UPDATES**
-
-<details>
-  <summary>📧 Get notified when I build something cool</summary>
-  <br>
-  
-  ```
-  ┌─────────────────────────────────────┐
-  │  📨 Enter your email: [_______]     │
-  │                                     │
-  │  [🔔 NOTIFY ME]                     │
-  │                                     │
-  │  *No spam. Just code updates.*      │
-  └─────────────────────────────────────┘
-  ```
-  
-  *(Click the button above to email me your subscription request)*
-  
-</details>
-
----
-
-## 🏆 **ACHIEVEMENTS** *(Click to claim)*
-
-<details>
-  <summary>🏅 MY BADGES</summary>
-  <br>
-  
-  - [x] 🎯 1000+ Commits
-  - [x] 🚀 Founded Tech Company
-  - [ ] 🔥 10k GitHub Stars *(In progress)*
-  - [ ] 🌍 Speak at Tech Conference
-  - [x] ☁️ AWS Certified
-  
-</details>
-
----
+## 🎯 **Current Focus**
 
 <div align="center">
   
-  ***✨ Try clicking/tapping any of the sections above! ✨***
-  
-  **[⬆️ Back to top ⬆️](#-)**
-  
-  ---
-  
-  *Profile views since launch:*  
-  ![Profile Views](https://komarev.com/ghpvc/?username=brizzieh&color=0A66C2&style=flat-square)
-  
-</div>
-```
