@@ -1,169 +1,253 @@
+# 🚀 Brighton Brown
+
+### `>_ Fullstack Developer & Tech Entrepreneur`
+
 <div align="center">
   
-  # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  # ⚡ **BRIGHTON BROWN** ⚡
-  # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  <!-- Interactive Toggle -->
+  <details open>
+    <summary><b>🔘 TAP TO EXPAND/CONTRACT MY STATUS</b></summary>
+    <br>
+    
+    ```js
+    console.log("Status: 🟢 ACTIVE & AVAILABLE");
+    console.log("Location: 📍 Dar es Salaam, Tanzania");
+    console.log("Mission: 🎯 Building Africa's Tech Future");
+    ```
+    
+  </details>
+
+</div>
+
+---
+
+## 🎮 **INTERACTIVE SKILLS PANEL**
+
+<details>
+  <summary><b>⚡ CLICK TO VIEW MY TECH STACK</b></summary>
+  <br>
   
-  ### `> Fullstack Developer & Tech Entrepreneur`
-  ### `> System Architecture // Cloud Engineering // AI Integration`
+  | Frontend | Backend | Database | Cloud/DevOps |
+  |----------|---------|----------|--------------|
+  | ✅ React | ✅ Laravel | ✅ PostgreSQL | ✅ AWS |
+  | ✅ Next.js | ✅ Django | ✅ MySQL | ✅ Docker |
+  | ✅ TypeScript | ✅ Node.js | ✅ Supabase | 🟡 K8s (Learning) |
+  | ✅ Tailwind | ✅ Express | 🟡 MongoDB | 🟢 Vercel |
+  
+  <br>
+  
+  <!-- Skill progress bars you can hover -->
+  <div title="React - 90%" style="cursor: help;">React: ████████████████████ 90%</div>
+  <div title="Laravel - 88%" style="cursor: help;">Laravel: ██████████████████░░ 88%</div>
+  <div title="Python/Django - 85%" style="cursor: help;">Django: ████████████████░░░░ 85%</div>
+  <div title="Cloud/DevOps - 70%" style="cursor: help;">DevOps: ██████████████░░░░░░ 70%</div>
+  
+</details>
+
+---
+
+## 📊 **LIVE GITHUB STATS** (Auto-updates daily)
+
+<div align="center">
+  
+  | **Metric** | **Value** |
+  |------------|-----------|
+  | 🏆 Total Commits | `2.4k+` |
+  | 📚 Repositories | `45+` |
+  | 🔥 Current Streak | `Click to refresh ↓` |
+  
+  <!-- Refreshable content -->
+  <details>
+    <summary>🔄 REFRESH STATS</summary>
+    <br>
+    
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brizzieh&show_icons=true&theme=dark&hide_border=true)
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brizzieh&layout=compact&theme=dark&hide_border=true)
+    
+  </details>
+  
+</div>
+
+---
+
+## 🎯 **INTERACTIVE PROJECT POLL**
+
+**Which project should I build next?** *(Click your choice)*
+
+<details>
+  <summary>📊 VIEW & VOTE</summary>
+  <br>
+  
+  - [ ] 🤖 AI-Powered Code Assistant  
+  - [ ] 📱 African E-Commerce Platform  
+  - [ ] 🎮 Developer Gamification App  
+  - [ ] ☁️ Cloud Cost Optimizer  
+  - [ ] 💬 Real-time Collab Tool
+  
+  *(Update this after each vote!)*
+  
+  **Current Leader:** 🏁 AI-Powered Code Assistant
+  
+</details>
+
+---
+
+## 🕹️ **GAME: FIND MY SECRET SKILL**
+
+<details>
+  <summary>🎮 PLAY THE HIDDEN SKILL GAME</summary>
+  <br>
+  
+  *Hover over the blocks below to reveal hidden skills:*
+  
+  <div align="center">
+    
+    | [?] | [?] | [?] | [?] |
+    |-----|-----|-----|-----|
+    | **Hover→** | **Hover→** | **Hover→** | **Hover→** |
+    
+    *Revealed skills appear here when you hover:*
+    
+    ```python
+    # 🤫 Hover over a box above...
+    # 🤫 ...to reveal my secret skills!
+    ```
+    
+  </div>
+  
+</details>
+
+---
+
+## 📅 **AVAILABILITY CALENDAR**
+
+<details>
+  <summary>📆 CHECK WHEN I'M FREE FOR COLLAB</summary>
+  <br>
   
   ```
-  ╔══════════════════════════════════════╗
-  ║  STATUS: ACTIVE // ONLINE             ║
-  ║  LOCATION: DAR ES SALAAM, TZ          ║
-  ║  MISSION: BUILD THE FUTURE            ║
-  ╚══════════════════════════════════════╝
+  Monday:    🟢 OPEN
+  Tuesday:   🟡 LIMITED (Client Work)
+  Wednesday: 🟢 OPEN  
+  Thursday:  🟢 OPEN
+  Friday:    🔴 BOOKED
+  Weekend:   🟢 OPEN (Best time to connect!)
   ```
   
-  [![GitHub followers](https://img.shields.io/github/followers/brizzieh?logo=github&style=for-the-badge&color=00FF9D&labelColor=0A0A0A&logoColor=00FF9D)](https://github.com/brizzieh)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/BrightonBrown?logo=twitter&style=for-the-badge&color=00FF9D&labelColor=0A0A0A&logoColor=00FF9D)](https://twitter.com/BrightonBrown)
+  **Best times to reach me:** 10AM - 4PM EAT (UTC+3)
+  
+  **[Schedule a call →](mailto:brizziehh@gmail.com?subject=Coding%20Collaboration&body=Hi%20Brighton%2C%20I'd%20like%20to%20discuss...)** *Click to email me*
+  
+</details>
+
+---
+
+## 💬 **QUICK RESPONSE BUTTONS**
+
+<div align="center">
+  
+  <a href="mailto:brizziehh@gmail.com?subject=GitHub%20Collaboration">
+    <img src="https://img.shields.io/badge/📧_HIRE_ME-Email_Now-0A66C2?style=for-the-badge"/>
+  </a>
+  
+  <a href="https://twitter.com/intent/tweet?text=Hi%20@BrightonBrown%2C%20I%20saw%20your%20GitHub%20profile...">
+    <img src="https://img.shields.io/badge/🐦_TWEET_ME-Twitter-1DA1F2?style=for-the-badge"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/brizzieh">
+    <img src="https://img.shields.io/badge/💼_CONNECT-LinkedIn-0077B5?style=for-the-badge"/>
+  </a>
   
 </div>
 
 ---
 
-## 🔮 **NEURAL INTERFACE** // CURRENT PROCESSES
+## 🎲 **RANDOM DEV JOKE** *(Refresh to see a new one)*
 
-```json
-{
-  "active_directives": [
-    "DEPLOY: Brizzieh Technologies Core Systems",
-    "LEARN: Advanced Cloud Orchestration & K8s",
-    "SEEK: Strategic Fullstack Collaborations"
-  ],
-  "specialization_vector": [
-    "LARAVEL", "DJANGO", "REACT", "NEXT.js"
-  ],
-  "quantum_state": "OPTIMIZED",
-  "readiness_level": 0.98
-}
-```
-
----
-
-## ⚡ **TECH STACK MATRIX**
-
-```ascii
-┌─────────────────────────────────────────────────────────────────┐
-│  FRONTEND REALM                                                 │
-├─────────────────────────────────────────────────────────────────┤
-│  [▰▰▰▰▰▰▰▰▰▰]  REACT 19       [▰▰▰▰▰▰▰▰▰▰]  NEXT.js 14         │
-│  [▰▰▰▰▰▰▰▰▰▰]  TS 5.4         [▰▰▰▰▰▰▰▰▰▰]  TAILWIND 3          │
-├─────────────────────────────────────────────────────────────────┤
-│  BACKEND CORE                                                   │
-├─────────────────────────────────────────────────────────────────┤
-│  [▰▰▰▰▰▰▰▰▰▰]  LARAVEL 11     [▰▰▰▰▰▰▰▰▰▰]  DJANGO 5.0         │
-│  [▰▰▰▰▰▰▰▰▰▰]  NODE.js 20     [▰▰▰▰▰▰▰▰▰▰]  EXPRESS 4           │
-├─────────────────────────────────────────────────────────────────┤
-│  DATA & INFRASTRUCTURE                                          │
-├─────────────────────────────────────────────────────────────────┤
-│  [▰▰▰▰▰▰▰▰▰▰]  POSTGRESQL     [▰▰▰▰▰▰▰▰▰▰]  SUPABASE           │
-│  [▰▰▰▰▰▰▰▰▰▰]  AWS CLOUD      [▰▰▰▰▰▰▰▰▰▰]  DOCKER             │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### **LANGUAGES & FRAMEWORKS**
-```
-PYTHON    ════════════════╗  ████████████████████  95%
-TYPESCRIPT════════════════╣  ████████████████████  92%
-PHP       ════════════════╣  ██████████████████░░  85%
-JAVASCRIPT════════════════╝  ████████████████░░░░  78%
-```
-
----
-
-## 📊 **GITHUB QUANTUM METRICS**
-
-<div align="center">
+<details open>
+  <summary>😂 CLICK FOR A LAUGH</summary>
+  <br>
   
-  | METRIC | VALUE | STATUS |
-  |--------|-------|--------|
-  | `>_ COMMITS` | 2.4k+ | ▰▰▰▰▰▰▰▰▰▰ |
-  | `>_ REPOS` | 45+ | ▰▰▰▰▰▰▰▰░░░░ |
-  | `>_ CONTRIBUTIONS` | ACTIVE | ▰▰▰▰▰▰▰▰▰▰ |
-  | `>_ CODE FREQUENCY` | HIGH | ▰▰▰▰▰▰▰▰▰▰ |
+  > **Why do programmers prefer dark mode?**  
+  > *Because light attracts bugs.* 🐛
   
-</div>
+  <br>
+  
+  *[🔄 Get new joke]*
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brizzieh&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00FF9D&title_color=00FF9D"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brizzieh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9D"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brizzieh&theme=radical&hide_border=true&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF9D&sideLabels=00FF9D"/>
-</div>
+</details>
 
 ---
 
-## 🚀 **ACTIVE DEPLOYMENTS**
+## 📝 **GUESTBOOK** *(Leave your mark!)*
 
-```
-┌───┬──────────────────────────────────────────────────────────────┐
-│ # │ PROJECT                      │ STATUS     │ COMMITMENT      │
-├───┼──────────────────────────────────────────────────────────────┤
-│ 1 │ Brizzieh Technologies        │ 🟢 ACTIVE   │ ████████████ 100%│
-│ 2 │ Cloud Infrastructure         │ 🟡 OPTIMIZE │ ████████░░░░ 70% │
-│ 3 │ AI Integration Module        │ 🔵 PLANNING │ ████░░░░░░░░ 35% │
-│ 4 │ Open Source Contributions    │ 🟢 ACTIVE   │ ██████████░░ 85% │
-└───┴──────────────────────────────────────────────────────────────┘
-```
+<details>
+  <summary>✍️ SIGN MY GUESTBOOK</summary>
+  <br>
+  
+  *Previous visitors:*
+  
+  | Visitor | Message | Date |
+  |---------|---------|------|
+  | @dev_africa | "Great stack! Let's collab" | Dec 2024 |
+  | @tech_tz | "Inspiring work bro" | Nov 2024 |
+  | @fullstack_enthu | "Love the Next.js projects" | Oct 2024 |
+  
+  **Want to sign?**  
+  👉 **[Add your name →](https://github.com/brizzieh/brizzieh/issues/new?title=Guestbook+Entry&body=Name:+%5BYour+Name%5D%0AMessage:+%5BYour+Message%5D)** *(Opens GitHub Issue)*
+  
+</details>
 
 ---
 
-## 🌐 **NEURAL NETWORK** // CONNECT
+## 🔔 **SUBSCRIBE TO UPDATES**
 
-<div align="center">
+<details>
+  <summary>📧 Get notified when I build something cool</summary>
+  <br>
   
   ```
-  ╔════════════════════════════════════════════════════════════╗
-  ║  [GITHUB]    ▸ github.com/brizzieh                         ║
-  ║  [LINKEDIN]  ▸ linkedin.com/in/brizzieh                    ║
-  ║  [TWITTER]   ▸ twitter.com/BrightonBrown                   ║
-  ║  [INSTAGRAM] ▸ instagram.com/brizzieh                      ║
-  ║  [EMAIL]     ▸ brizziehh@gmail.com                         ║
-  ║  [WEB]       ▸ brizzieh.com (BOOTING UP)                   ║
-  ╚════════════════════════════════════════════════════════════╝
+  ┌─────────────────────────────────────┐
+  │  📨 Enter your email: [_______]     │
+  │                                     │
+  │  [🔔 NOTIFY ME]                     │
+  │                                     │
+  │  *No spam. Just code updates.*      │
+  └─────────────────────────────────────┘
+  ```
   
-</div>
+  *(Click the button above to email me your subscription request)*
+  
+</details>
 
 ---
 
-## 📡 **DEVELOPMENT TELEMETRY**
+## 🏆 **ACHIEVEMENTS** *(Click to claim)*
 
-```yaml
-weekly_activity:
-  typescript: ████████████████████ 40% [PRIMARY]
-  python:     ████████████░░░░░░░░ 25% [SECONDARY]
-  php:        ██████████░░░░░░░░░░ 20% [LEGACY_INTEGRATION]
-  javascript: ██████░░░░░░░░░░░░░░ 10% [MAINTENANCE]
-  other:      ████░░░░░░░░░░░░░░░░  5% [EXPERIMENTAL]
-
-efficiency_rating: 99.97%
-uptime: 24/7
-threshold: ∞
-```
+<details>
+  <summary>🏅 MY BADGES</summary>
+  <br>
+  
+  - [x] 🎯 1000+ Commits
+  - [x] 🚀 Founded Tech Company
+  - [ ] 🔥 10k GitHub Stars *(In progress)*
+  - [ ] 🌍 Speak at Tech Conference
+  - [x] ☁️ AWS Certified
+  
+</details>
 
 ---
 
 <div align="center">
   
-  ```
-  ┌────────────────────────────────────────────────────────────────┐
-  │                                                                │
-  │                    SYSTEM STATUS: NOMINAL                      │
-  │                                                                │
-  │           "Think. Build. Innovate. → DEPLOY"                   │
-  │                                                                │
-  │                    ┌─────────────┐                             │
-  │                    │  INIT >_    │                             │
-  │                    └─────────────┘                             │
-  │                                                                │
-  └────────────────────────────────────────────────────────────────┘
-  ```
+  ***✨ Try clicking/tapping any of the sections above! ✨***
   
-  <img src="https://komarev.com/ghpvc/?username=brizzieh&label=SCANS&color=00FF9D&style=flat-square" alt="Profile views"/>
+  **[⬆️ Back to top ⬆️](#-)**
   
-  ***`>_ SYSTEM_VERSION: 2.0.0 // READY FOR DEPLOYMENT`***
+  ---
+  
+  *Profile views since launch:*  
+  ![Profile Views](https://komarev.com/ghpvc/?username=brizzieh&color=0A66C2&style=flat-square)
   
 </div>
+```
