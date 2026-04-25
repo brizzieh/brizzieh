@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Brighton Brown
 
 ### **Fullstack Developer & Tech Entrepreneur**
