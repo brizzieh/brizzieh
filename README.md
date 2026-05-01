@@ -1,134 +1,119 @@
-# 👋 Hi, I'm Brighton Brown
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=BRIGHTON+BROWN;Fullstack+Developer;Tech+Entrepreneur" />
+</h1>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/-LARAVEL-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-DJANGO-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-REACT-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-NEXT.JS-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TAILWIND-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
-### **Fullstack Developer | Tech Entrepreneur | Digital Innovator**
-
-Building scalable solutions that empower African businesses to compete globally.
-
-[GitHub](https://github.com/brizzieh) • [LinkedIn](https://linkedin.com/in/brizzieh) • [Twitter](https://twitter.com/BrightonBrown) • [Email](mailto:brizziehh@gmail.com)
-
-</div>
-
----
-
-## 🎯 About Me
-
-I'm a **fullstack developer and tech entrepreneur** based in **Dar es Salaam, Tanzania**, passionate about creating innovative digital solutions. I specialize in building robust backend systems and modern frontend applications that solve real-world problems.
-
-- 🚀 **Founder** of Brizzieh Technologies — delivering cutting-edge tech solutions
-- 💼 Building products that **scale** and **impact** communities
-- 🔧 Experienced in **enterprise-level architecture** and **cloud deployment**
-- 📚 Continuously learning **DevOps, Cloud Engineering & System Design**
-- 🌍 Committed to **bridging the tech gap** across African markets
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Dar%20es%20Salaam%2C%20Tanzania-0A66C2?style=flat-square&logo=google-maps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Contact-brizziehh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</p>
 
 ---
 
-## 🛠️ Technical Expertise
+### 👨‍💻 **About Me**
 
-<div align="center">
+> Building digital solutions that make a difference
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### **Backend Development**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### **Database & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
+- 🔭 Working on **Brizzieh Technologies Projects**
+- 🌱 Learning **Advanced DevOps & Cloud Engineering**
+- 🤝 Open to collaborating on **Fullstack Projects**
+- 💬 Ask me about **Laravel, Django, React, Next.js**
+- 🌐 Founder of **Brizzieh Technologies**
 
 ---
 
-## 📈 GitHub Analytics
+### 🛠️ **Tech Stack**
 
-<div align="center">
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brizzieh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF)
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,django,nodejs,express,python,php" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brizzieh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF)
+<h3 align="center">Database & Cloud</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,aws,docker" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brizzieh&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### **Brizzieh Technologies**
-> Innovative tech solutions designed for African businesses. Specialized in fullstack development, cloud infrastructure, and digital transformation.
-
-**Tech Stack:** Laravel • Django • React • Next.js • PostgreSQL • AWS
-
-[View on GitHub](https://github.com/brizzieh) →
-
----
-
-## 💡 What I Do
-
-| **Service** | **Details** |
-|---|---|
-| 🎨 **Full-Stack Development** | End-to-end web applications with modern frontend and robust backend |
-| ☁️ **Cloud Solutions** | AWS deployment, scaling, and infrastructure optimization |
-| 📱 **API Design** | RESTful APIs, database optimization, and real-time solutions |
-| 🐳 **DevOps** | Docker containerization, CI/CD pipelines, and deployment automation |
-| 🎯 **Consulting** | Technical strategy, architecture design, and growth planning |
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+### 📊 **GitHub Stats**
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brizzieh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brizzieh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
 
-<a href="https://github.com/brizzieh">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/brizzieh">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/BrightonBrown">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://instagram.com/brizzieh">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:brizziehh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brizzieh&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brizzieh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=3B82F6&point=FFFFFF" />
+</p>
 
 ---
 
-## 📊 Current Stats
+### 🚀 **Featured Project**
 
-![Profile Views](https://komarev.com/ghpvc/?username=brizzieh&label=Profile%20Views&color=3B82F6&style=flat-square)
+<p align="center">
+  <a href="https://github.com/brizzieh">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brizzieh&repo=brizzieh&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+> **Brizzieh Technologies** — Innovative tech solutions for African businesses
 
 ---
 
-<div align="center">
+### 🌐 **Connect With Me**
 
-### **"Code with Purpose. Build with Impact."**
+<p align="center">
+  <a href="https://github.com/brizzieh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/brizzieh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/BrightonBrown">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/brizzieh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-*Turning ideas into scalable digital solutions | Open to collaboration & innovation*
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=50&section=footer&width=100%" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=brizzieh&label=Profile%20Views&color=3B82F6&style=flat-square" />
+</p>
 
-</div>
+<p align="center">
+  <b>"Code. Create. Impact."</b><br/>
+  <i>Building the future, one line at a time</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=80&section=footer" />
+</p>
